@@ -70,6 +70,11 @@ form button {
   text-transform: uppercase;
 }
 
+form label {
+  display: block;
+  font-weight: bold;
+}
+
 .site-footer {
   padding: 2rem 0;
 }
